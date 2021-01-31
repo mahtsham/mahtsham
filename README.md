@@ -9,3 +9,6 @@ const MuhammadAhtsham = {
   from all over the world', 
   'my tiny chihuahua dog is ready to woof at the right offer']
 }
+
+Email : muhammadahtsham357@gmail.com
+Linkedin: muhammad-ahtsham
